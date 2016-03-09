@@ -1,0 +1,10 @@
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\bin\Debug\Sloth.exe.config
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\bin\Debug\Sloth.exe
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\bin\Debug\Sloth.pdb
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\obj\Debug\Sloth.csprojResolveAssemblyReference.cache
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\obj\Debug\Sloth.exe
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\obj\Debug\Sloth.pdb
+C:\Users\Richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\bin\Debug\Sloth.exe.manifest
+C:\Users\Richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\bin\Debug\Sloth.application
+C:\Users\Richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\obj\Debug\Sloth.exe.manifest
+C:\Users\Richardbi\documents\visual studio 2015\Projects\Sloth\Sloth\obj\Debug\Sloth.application
