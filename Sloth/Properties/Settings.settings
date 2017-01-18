@@ -3,13 +3,13 @@
   <Profiles />
   <Settings>
     <Setting Name="InputPath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Users\RichardBi\Desktop</Value>
+      <Value Profile="(Default)">E:\SynPrintInvoice\Processed</Value>
     </Setting>
     <Setting Name="OutputPath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Users\RichardBi\Desktop\Files</Value>
+      <Value Profile="(Default)">E:\SynPrintInvoice\Archive</Value>
     </Setting>
     <Setting Name="pattern" Type="System.String" Scope="User">
-      <Value Profile="(Default)">*.*</Value>
+      <Value Profile="(Default)">*.tif</Value>
     </Setting>
   </Settings>
 </SettingsFile>

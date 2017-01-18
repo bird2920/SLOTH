@@ -43,24 +43,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sloth.exe" size="379328">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sloth.exe" size="383424">
       <assemblyIdentity name="Sloth" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HMXjjtx6Pt4omyabCceOwOi5yxa9HAs5K1CnJrWM0Ss=</dsig:DigestValue>
+        <dsig:DigestValue>tvsiO1jPCScIMv2rf8hCdk93giaqJZkhCtnShWjd/YE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Sloth.exe.config" size="1197">
+  <file name="Sloth.exe.config" size="1195">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>LeIRgiVdNO/dbGnPN6wq6Y6Dj3yzc6H7WBT8N79DAF0=</dsig:DigestValue>
+      <dsig:DigestValue>EbIP25TTHJOrRa5O6IcXuGUXRVCP/UzynXGHn3RXnBs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="tumblr_static_sticker_375x360.ico" size="370070">
