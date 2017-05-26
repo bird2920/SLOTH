@@ -136,7 +136,7 @@ namespace Sloth
                     var Year = Console.ReadLine();
 
                     Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.WriteLine("  Everything less than {0} will be moved to {1}", Year, outputPath);
+                    Console.WriteLine($"  Everything less than {Year} will be moved to {outputPath}");
 
                     Move(files, outputPath, folderType, Year);
                 }

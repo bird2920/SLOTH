@@ -7,3 +7,4 @@ C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth\Sloth\obj\Release
 C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth\Sloth\obj\Release\Sloth.application
 C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth\Sloth\obj\Release\Sloth.exe
 C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth\Sloth\obj\Release\Sloth.pdb
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth\Sloth\obj\Release\Sloth.csprojResolveAssemblyReference.cache
